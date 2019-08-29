@@ -10,6 +10,14 @@ We built this application using HTML, CSS, and Javascript along with jQuery and 
 
 Our main goals with this project were to use ES6 classes, write dry modular JavaScript, practice and implement TDD and to manipulate and gather data using JavaScript array prototype methods.
 
+## Take It For A Spin
+
+View <a href=https://matthewdshepherd.github.io/fitlit/src/index.html>here</a> on GitHub.
+
+OR 
+
+Download and unzip the FitLit.zip file, and open the index.html file in the broswer of your choice to view the website.
+
 ## Screenshots
 
 ### Actual:
