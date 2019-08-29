@@ -16,7 +16,7 @@ View <a href=https://matthewdshepherd.github.io/fitlit/src/index.html>here</a> o
 
 OR 
 
-Download and unzip the FitLit.zip file, and open the index.html file in the broswer of your choice to view the website.
+Download and unzip the fitlit-master.zip file, and open the index.html file in the broswer of your choice to view the website.
 
 ## Screenshots
 
